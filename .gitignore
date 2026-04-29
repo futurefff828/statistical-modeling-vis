@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Raw data (not uploaded)
+data/raw/*.xlsx
+data/raw/*.txt
+
+# Generated outputs (local only)
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Paper document
+*.docx
+*.pdf
+
+# Logs
+*.log

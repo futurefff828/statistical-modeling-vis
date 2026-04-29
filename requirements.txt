@@ -1,0 +1,13 @@
+# Core data processing
+numpy==2.4.4
+pandas==2.3.3
+openpyxl==3.1.5
+
+# Econometric and statistical models
+statsmodels==0.14.6
+
+# Machine learning and preprocessing
+scikit-learn==1.6.1
+
+# Visualization
+matplotlib==3.10.8
