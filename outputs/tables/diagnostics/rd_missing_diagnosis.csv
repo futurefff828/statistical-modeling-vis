@@ -1,0 +1,4 @@
+﻿stage,rows,rd_amount_missing,rd_amount_missing_rate,rd_intensity_missing,rd_intensity_missing_rate
+processed_controls_panel_no_rd_amount,29621,,,,
+processed_rd_investment_panel,29621,865,0.029202255156814422,1074,0.03625806016002161
+processed_modeling_panel,29621,865,0.029202255156814422,870,0.029371054319570575

@@ -1,0 +1,8 @@
+﻿dataset,rows,firms,year_min,year_max
+ai_word,28456,3707,2013,2024
+ai_investment,26213,3756,2013,2024
+controls,29621,3843,2013,2024
+rd_investment,29621,3843,2013,2024
+tfp,29621,3843,2013,2024
+y_candidates,29621,3843,2013,2024
+modeling_panel,29621,3843,2013,2024

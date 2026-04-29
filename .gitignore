@@ -6,13 +6,6 @@ __pycache__/
 dist/
 build/
 
-# Raw data (not uploaded)
-data/raw/*.xlsx
-data/raw/*.txt
-
-# Generated outputs (local only)
-outputs/
-
 # OS files
 .DS_Store
 Thumbs.db
@@ -22,10 +15,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-
-# Paper document
-*.docx
-*.pdf
 
 # Logs
 *.log

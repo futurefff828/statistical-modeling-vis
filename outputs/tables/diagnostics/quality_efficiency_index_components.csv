@@ -1,0 +1,6 @@
+﻿dimension,component,meaning,interpretation
+质量维度,roa,总资产净利润率,越高表示单位资产创造利润能力越强
+质量维度,operating_margin,营业利润率,越高表示主营业务盈利质量越好
+质量维度,tfp,TFP,越高表示资本和劳动投入之外的相对产出效率越强
+效率维度,asset_turnover,总资产周转率,越高表示资产使用效率越高
+效率维度,labor_productivity_log,劳动生产率对数,营业收入/员工人数取对数，越高表示人均产出越高

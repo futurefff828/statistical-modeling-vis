@@ -1,0 +1,2 @@
+﻿model,purpose,variable,coef,std_err,t_value,p_value,nobs,firms,years,r_squared_within
+DID_placebo_pre_2016,政策前安慰剂：仅使用2013-2016年,placebo_did_2016,-0.04714591058246707,0.023779849087066946,-1.982599233908012,0.04741221302502047,6097,1823,4,0.03694788172724639

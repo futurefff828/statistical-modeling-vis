@@ -1,0 +1,2 @@
+﻿model,y,x,coef,std_err,t_value,p_value,nobs,r_squared,purpose
+cross_fitted_partial_linear,quality_efficiency_index_w,annual_ai_log_w,0.04752773501099991,0.007376568950779767,6.443067953153995,1.1708224071706716e-10,26869,0.004919040091357574,交叉拟合部分线性模型：用随机森林净化控制变量、年份和行业影响后估计AI净效应

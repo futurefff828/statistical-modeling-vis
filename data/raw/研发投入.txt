@@ -1,0 +1,16 @@
+基本信息:
+code[证券代码] - 
+stknme[证券简称] - 
+listingDate[上市日期] - 
+EndDate[时间] - 
+
+数据库名称：上市公司研发创新--> 表名称：研发投入情况表(PT_LCRDSPENDING)
+RDSpendSumRatio[研发投入占营业收入比例(%)] - 研发投入占营业收入的比例，数据源直接披露。
+RDSpendSum[研发投入金额] - 研发投入金额
+
+数据库名称：会计信息质量--> 表名称：上市公司财务指标数据表(年)(AIQ_LCFinIndexY)
+RDExpenses[研发费用] - null
+
+数据库名称：上市公司基本信息--> 表名称：上市公司基本信息年度表(STK_LISTEDCOINFOANL)
+IndustryCodeD[行业代码D] - 中国上市公司协会行业分类代码。
+IndustryNameD[行业名称D] - 中国上市公司协会行业分类名称。

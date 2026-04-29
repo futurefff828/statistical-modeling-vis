@@ -1,0 +1,14 @@
+EndDate [统计截止日期] - YYYY-12-31
+InstitutionID [上市公司ID] - 希施玛编制的公司ID，可以与希施玛其他库公司ID实现关联
+Symbol [证券代码] - null
+ShortName [证券简称] - null
+AnnualReportAIWordFre [年报人工智能总词频] - 所有人工智能关键词在年报中出现的次数加总获得的总词频。
+AnnualReportAISentenceFre [年报人工智能总句频] - 所有人工智能关键词的句子在年报中出现的次数加总获得的总句数。
+AnnualReportSentence [年报总句数] - 年报中剔除图片后的总句数，按照标点符号（。？！）作为判断句子的依据。
+AnnualReportWord [年报总词数] - 年报中剔除图片后的总词数，基于jieba分词统计的词汇数量。 
+AnnualReportWordNum [年报文字数量] - 年报中剔除图片、阿拉伯数字、标点符号后的中文文字数量。 
+MDAAIWordFre [MD&A人工智能总词频] - 
+MDAAIAISentenceFre [MD&A人工智能总句频] - 
+MDASentence [MD&A总句数] - 
+MDAWord [MD&A总词数] - 
+MDAWordNum [MD&A文字数量] - 

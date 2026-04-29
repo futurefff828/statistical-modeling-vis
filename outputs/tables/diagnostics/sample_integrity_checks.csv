@@ -1,0 +1,8 @@
+﻿dataset,rows,non_manufacturing_key_rows,non_c_industry_rows,pingan_bank_rows,passed
+ai_word,28456,0,0,0,True
+ai_investment,26213,0,0,0,True
+controls,29621,0,0,0,True
+rd_investment,29621,0,0,0,True
+tfp,29621,0,0,0,True
+y_candidates,29621,0,0,0,True
+modeling_panel,29621,0,0,0,True

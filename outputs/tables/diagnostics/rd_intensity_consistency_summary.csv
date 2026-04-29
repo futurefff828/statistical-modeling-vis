@@ -1,0 +1,2 @@
+﻿comparable_rows,direct_missing,direct_missing_rate,calculated_missing,calculated_missing_rate,correlation,median_abs_diff,p95_abs_diff,p99_abs_diff,large_abs_diff_gt_0_001_rate,large_rel_diff_gt_5pct_rate
+28505,1074,0.03625806016002161,870,0.029371054319570575,0.9999321794566237,2.5619832841244916e-05,4.8532249778233946e-05,0.0016782115639330964,0.011787405718295035,0.013260831433081915

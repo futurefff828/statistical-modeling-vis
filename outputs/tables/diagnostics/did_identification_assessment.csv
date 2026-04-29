@@ -1,0 +1,6 @@
+﻿item,assessment,passed
+policy_shock,2017年国家人工智能规划可作为统一时间冲击，但处理强度来自政策前行业AI暴露而非随机分配,True
+parallel_trend_joint_test,事件研究政策前联合检验p值=0.0064,False
+pre_period_placebo,2016年前置安慰剂p值=0.0474,False
+main_effect,"主DID系数=-0.0172, p值=0.4659",False
+overall,不建议用于因果主结论,False
